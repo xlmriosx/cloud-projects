@@ -3,8 +3,8 @@
 ---
 
 ## 🔗Related content 
-### You can find video related in:
-👨‍💻[DEV](https://dev.to/xlmriosx/how-install-cloud-sdk-docker-image-in-gcp-4mep) 
+### You can find post related in:
+👨‍💻[DEV](https://dev.to/xlmriosx/how-upload-data-in-format-json-to-datastore-from-gcp-20no) 
 
 ### You can find video related in:
 📺[YouTube](https://youtu.be/2oHaQeKkmWI)
